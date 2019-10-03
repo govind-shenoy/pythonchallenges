@@ -1,7 +1,7 @@
 
 # Python Challenges
 - Fork the repository and clone it to your PC
-- Put your code inside the cloned repository in a folder name <Your Name> which should contain the code
+- Put your code inside the cloned repository in a folder named {Your_Name} which should contain the code
 - Push it to your forked repository
 - Create Pull Request
  
